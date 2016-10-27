@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">博览头条</string>
+    <string name="search">搜索</string>
+    <string name="download">下载</string>
+    <string name="manage">管理新闻频道</string>
+
+    <string name="api_key"></string>
+</resources>
